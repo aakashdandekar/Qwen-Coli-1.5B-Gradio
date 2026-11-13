@@ -1,4 +1,4 @@
-# Qwen-Coli-1.5B Test
+# Qwen-Coli-1.5B Gradio
 
 Gradio streaming chat server for testing [aakashdandekar2006/Qwen-Coli-1.5B](https://huggingface.co/aakashdandekar2006/Qwen-Coli-1.5B), a language model for *Escherichia coli* codon optimization.
 
