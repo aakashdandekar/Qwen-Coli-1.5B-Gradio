@@ -7,6 +7,6 @@ Gradio streaming chat server for testing [aakashdandekar2006/Qwen-Coli-1.5B](htt
 ```bash
 uv run main.py
 ```
-Hugging Face Model: https://huggingface.co/aakashdandekar2006/Qwen-Coli-1.5B
+Qwen-Coli-1.5B Model: https://huggingface.co/aakashdandekar2006/Qwen-Coli-1.5B
 
 The server downloads the model into `model/` automatically if not already present, then starts on `http://127.0.0.1:7860` with a Gradio share link.
